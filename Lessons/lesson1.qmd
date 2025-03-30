@@ -59,7 +59,7 @@ You'll see that fast.ai's way of teaching is very different to what you might be
 
 ## If you need help
 
-There's lot of helpful people, and helpful answers to past questions, on the [fast.ai forums](https://forums.fast.ai/c/p1v5/54). There are special help topics for beginner questions, to ensure that your questions aren’t missed:
+There's a lot of helpful people and helpful answers to past questions on the [fast.ai forums](https://forums.fast.ai/c/p1v5/54). There are special help topics for beginner questions, to ensure that your questions aren’t missed:
 
 - [Help: Setup](https://forums.fast.ai/t/help-setup/95289)
 - [Help: Creating a dataset, and using Gradio / Spaces](https://forums.fast.ai/t/help-creating-a-dataset-and-using-gradio-spaces/96281)
